@@ -1,6 +1,8 @@
 # Inanutshell
  store.listen.learn
 
+inanutshell1 is a django package with templates, models, views and forms
+
 First you need to install virtual enviroment and then libraries from requirements
 linux
 $ virtualenv <env_name>
