@@ -5,7 +5,8 @@ inanutshell1 is a django package with templates, models, views and forms
 
 First you need to install virtual enviroment and then libraries from requirements
 
-linux
+
+LINUX
 
 $ virtualenv <env_name>
 
@@ -14,7 +15,7 @@ $ source <env_name>/bin/activate
 $ (<env_name>)$ pip install -r path/to/requirements.txt
 
 
-windows
+WINDOWS
 
 $ virtualenv <env_name>
 
@@ -22,7 +23,8 @@ $ zappaenv1\\Scripts\\activate.bat
 
 $ (<env_name>)$ pip install -r path/to/requirements.txt
 
-Django commands to make any changes
+
+DJANGO COMMANDS TO MAKE ANY CHANGES
 
 $ conda activate MyDjangoEnv
 
@@ -32,11 +34,12 @@ $ python manage.py migrate
 
 $ python manage.py runserver 
 
-To Update static files to lamda
+
+TO UPDATE STATIC FILES TO LAMBDA
 
 $ python manage.py collectstatic --no-input
 
-to run zappa 
+TO RUN ZAPPA 
 
 $ zappa update dev
 
