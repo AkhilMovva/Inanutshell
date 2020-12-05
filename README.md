@@ -26,7 +26,7 @@ $ python manage.py collectstatic --no-input
 to run zappa 
 $ zappa update dev
 
-AWS lamda files are also provides in zip
+AWS lamda and Alexa files are also provides in zip
 
 
 
