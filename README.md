@@ -1,7 +1,10 @@
 # Inanutshell
  store.listen.learn
+ 
 Recorded demos of our Web Service and Alexa skill:
+
 https://www.dropbox.com/s/082ealj9ppema3k/inanutshell_demo.mp4?dl=0
+
 https://www.dropbox.com/s/mhyl3uqrnf2qovx/alexa_demo.MP4?dl=0
 
 inanutshell1 is a django package with templates, models, views and forms AND NEED TO UPDATE API KEYS AND MONGODB SRV
