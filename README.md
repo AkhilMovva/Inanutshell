@@ -1,7 +1,7 @@
 # Inanutshell
  store.listen.learn
 
-inanutshell1 is a django package with templates, models, views and forms
+inanutshell1 is a django package with templates, models, views and forms AND NEED TO UPDATE API KEYS AND MONGODB SRV
 
 First you need to install virtual enviroment and then libraries from requirements
 
